@@ -1,4 +1,4 @@
-\# Queen Tracker
+# Queen Tracker
 
 
 
@@ -6,25 +6,25 @@ Queen Tracker is a full-stack web application for managing beekeeping operations
 
 
 
-\## Features
+## Features
 
 
 
-\- User authentication and role-based access control
+- User authentication and role-based access control
 
-\- Beehive and queen bee management
+- Beehive and queen bee management
 
-\- Queen-to-hive assignments
+- Queen-to-hive assignments
 
-\- Queen quality assessments and recommendations
+- Queen quality assessments and recommendations
 
-\- Dashboard with statistics and alerts
+- Dashboard with statistics and alerts
 
-\- MySQL master–replica database configuration
+- MySQL master–replica database configuration
 
 
 
-\## Tech Stack
+## Tech Stack
 
 
 
@@ -38,21 +38,21 @@ Queen Tracker is a full-stack web application for managing beekeeping operations
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
-\- `client/` — frontend application
+- `client/` — frontend application
 
-\- `server/` — backend API and business logic
+- `server/` — backend API and business logic
 
-\- `docker/` — MySQL configuration and database scripts
+- `docker/` — MySQL configuration and database scripts
 
-\- `docker-compose.yml` — database services and networking
+- `docker-compose.yml` — database services and networking
 
 
 
-\## Local Configuration
+## Local Configuration
 
 
 
@@ -64,7 +64,7 @@ Database credentials in the development configuration are for local use only and
 
 
 
-\## Purpose
+## Purpose
 
 
 
